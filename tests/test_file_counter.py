@@ -47,4 +47,3 @@ def test_unicode_lines():
     assert 4 == file_counter.count_lines('./testdata/file_with_unicode.txt')
 
 #python -m pytest
-#
